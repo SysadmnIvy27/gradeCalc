@@ -18,6 +18,7 @@ namespace gradeCalc
         public Form1()
         {
             InitializeComponent();
+            this.Text = "Grade_Calc";
         }
 
         private void button1_Click(object sender, EventArgs e)
